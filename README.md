@@ -1,7 +1,5 @@
 # Pong
 
-This is my recreation of the game Pong in Python using Pygame modules.
+Recreation of the classic game Pong in Python using Pygame. 
 
-HOW TO PLAY: There are two boards on the left and right side of the screen, with the left one being under your control, and the right one being the AIs. A ball will bounce in between the two, and you must use the arrow keys to move your board. If the ball makes it past a board, the opposing side will gain a point. See if you can gain more points than the bot!
-
-To run the game, download the main python file named "Pong.py". Also download the .wav file, in addition to the Python and Pygame applications.
+Bounce a ball between two paddles on opposite sides of the screen. Attempt to beat the AI by bouncing the ball past their paddle.
